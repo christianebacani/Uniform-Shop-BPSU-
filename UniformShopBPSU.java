@@ -1,3 +1,5 @@
+// Uniform Shop (BPSU)
+// Created by Christiane A. Bacani
 import java.util.Scanner;
 public class UniformShopBPSU {
     public static void male(){
